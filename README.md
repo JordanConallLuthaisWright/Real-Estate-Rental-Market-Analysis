@@ -1,7 +1,13 @@
 # Short Term Real Estate Rental Market Analysis
 
-***This project analyzes short-term rental trends by examining guest demand, host acceptance rates, and supply-demand gaps. It involves data cleaning, feature engineering, exploratory data analysis (EDA), and statistical modeling to extract actionable insights.***  
+***This project analyzes short-term rental market trends for **Company XYZ** using publicly available datasets sourced from **Kaggle** in the real estate rental scene in Bali. The objective is to examine guest demand, host acceptance behavior, and supply-demand gaps to optimize listing strategies and improve booking conversions.***
 
+---
+
+By leveraging **data cleaning, feature engineering, exploratory data analysis (EDA), and statistical modeling**, this project uncovers insights into **guest search behavior, pricing preferences, and host response patterns**. Key areas of analysis include **acceptance rates across different countries, booking trends based on property attributes, and the impact of pricing filters on reservation success**.
+
+The findings provide actionable recommendations to **increase host participation, refine pricing models, and bridge supply-demand mismatches** in the short-term rental industry. Through **visualization and statistical evaluation**, this project helps **Company XYZ** gain a deeper understanding of market dynamics and improve overall booking efficiency.
+  
 ---
 
 ## Project Aim  
@@ -70,11 +76,25 @@ Short-term rental platforms track **guest searches and host responses** to optim
 
 ### 4. Statistical Modeling  
 - **Analyzed acceptance rates** across different countries.  
-- **Identified pricing strategies** that impact booking conversions.**  
+- **Identified pricing strategies** that impact booking conversions.**
 
 ---
 
 ## Key Findings & Conclusion  
 - **Guest search trends show a preference for entire homes/apartments and private rooms.**  
 - **Acceptance rates vary significantly by country, with some markets underperforming.**  
-- **Data-driven optimizations can improve host engagement and maximize bookings.**  
+- **Data-driven optimizations can improve host engagement and maximize bookings.** 
+
+--- 
+
+## **Contact & Contributions**
+Feel free to explore and contribute! If you have any suggestions, reach out or submit a pull request.
+- **Email**: [jordan.c.l.wright@gmail.com](mailto:jordan.c.l.wright@gmail.com)
+
+---
+
+### **Author:** Jordan
+[GitHub Profile](https://github.com/JordanConallLuthaisWright)
+
+
+ 
