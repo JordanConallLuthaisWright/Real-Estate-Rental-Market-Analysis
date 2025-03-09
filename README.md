@@ -36,7 +36,7 @@ This project explores **guest search behavior, host responses, and booking trend
 ## How to Run This Project  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/short-term-rental-market-analysis.git
+   git clone https://github.com/JordanConallLuthaisWright/Real-Estate-Rental-Market-Analysis.git
 2. **Navigate to the project directory**
    ```bash
    cd short-term-rental-market-analysis
